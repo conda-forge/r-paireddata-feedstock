@@ -1,11 +1,11 @@
-About r-paireddata
-==================
+About r-paireddata-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-paireddata-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=PairedData
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-paireddata-feedstock/blob/main/LICENSE.txt)
 
 Summary: Many datasets and a set of graphics (based on ggplot2), statistics, effect sizes and hypothesis tests are provided for analysing paired data with S4 class.
 
